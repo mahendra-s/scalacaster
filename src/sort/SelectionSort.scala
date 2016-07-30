@@ -2,7 +2,7 @@
  * This file is part of Scalacaster project, https://github.com/vkostyukov/scalacaster
  * and written by Vladimir Kostyukov, http://vkostyukov.ru
  *
- * Insertion Sort http://en.wikipedia.org/wiki/Selection_sort
+ * Selection Sort http://en.wikipedia.org/wiki/Selection_sort
  *
  * Worst - O(n^2)
  * Best - O(n^2)
